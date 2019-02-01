@@ -1,0 +1,13 @@
+■ Webサーバ（さくらのクラウド）
+  IPアドレス：163.43.31.153
+  ハードウェアスペック：4Core-8GB 250GB HDD
+  OS：CentOS 7.3 (1611) 64bit
+  Web: Apache 2.4.6
+    暗号化：OpenSSL 1.0.2
+  サーバサイド言語：PHP 7.2
+    フレームワーク：Laravel 5.5
+      ライブラリ：
+        yajra/laravel-datatables-buttons 3.*
+        yajra/laravel-datatables-oracle 8.0
+  DB：PostgreSQL 10.0
+

@@ -1,0 +1,13 @@
+/*
+ * Sawarabi Gothic (Japanese) https://fonts.google.com/earlyaccess
+ */
+@font-face {
+  font-family: 'Sawarabi Gothic';
+  font-style: normal;
+  font-weight: 400;
+  src: url(//fonts.gstatic.com/ea/sawarabigothic/v1/SawarabiGothic-Regular.eot);
+  src: url(//fonts.gstatic.com/ea/sawarabigothic/v1/SawarabiGothic-Regular.eot?#iefix) format('embedded-opentype'),
+       url(//fonts.gstatic.com/ea/sawarabigothic/v1/SawarabiGothic-Regular.woff2) format('woff2'),
+       url(//fonts.gstatic.com/ea/sawarabigothic/v1/SawarabiGothic-Regular.woff) format('woff'),
+       url(//fonts.gstatic.com/ea/sawarabigothic/v1/SawarabiGothic-Regular.ttf) format('truetype');
+}
